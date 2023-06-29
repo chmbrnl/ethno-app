@@ -1,0 +1,41 @@
+<!-- Include Bootstrap CSS
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+
+<!-- Navigation bar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">EthnoDB Search App - A project by KANYEM ESEYE Romeo</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/plants">Plants</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Jumbotron -->
+<div class="jumbotron">
+  <h1 class="display-4">Welcome to My Angular MongoDB WebApp!</h1>
+  <p class="lead">This is an Angular application that allows you to search for plants in a MongoDB database.</p>
+  <hr class="my-4">
+  <p>Click the button below to get started.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" routerLink="/search" role="button">Get Started</a>
+  </p>
+</div>
+
+<!-- Router outlet -->
+<div class="container mt-3">
+  <router-outlet></router-outlet>
+</div>
+
+<!-- Include Bootstrap JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.3/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script> -->
+
+<app-search-form (search)="onSearch($event)"></app-search-form>
+<router-outlet></router-outlet>

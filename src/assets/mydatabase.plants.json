@@ -1,0 +1,1229 @@
+[{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f9"
+  },
+  "family": "Annonaceae",
+  "sn": "Friesodielsia gracilipes",
+  "author": "(Benth.) Streenis",
+  "local_name": "Cotton leaf",
+  "who_icd_11_classification": "5A, 22",
+  "mode_of_application_standardized": "Decoction",
+  "parts_used": "Bark",
+  "diseases_treated": "Sores, ulcers, leprosy, skin disease and jaundice",
+  "preparation_administration": "Decoction is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811fa"
+  },
+  "family": "Annonaceae",
+  "sn": "Friesodielsia gracilipes",
+  "author": "(Benth.) Streenis",
+  "local_name": "Cotton leaf",
+  "who_icd_11_classification": "5A, 12, 13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Seeds",
+  "diseases_treated": "Liver disorder, throat infections, bronchitis, cough",
+  "preparation_administration": "Seeds are eaten whole",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811fb"
+  },
+  "family": "Annonaceae",
+  "sn": "Friesodielsia gracilipes",
+  "author": "(Benth.) Streenis",
+  "local_name": "Cotton leaf",
+  "who_icd_11_classification": "10",
+  "mode_of_application_standardized": "Wash",
+  "parts_used": "Branch",
+  "diseases_treated": "Oral hygiene",
+  "preparation_administration": "Small portions of the branches are used as chewing sticks to improve oral hygiene",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811fc"
+  },
+  "family": "Annonaceae",
+  "sn": "Greenwayodendron suaveolens",
+  "author": "(Engl.and Diels) Verde",
+  "local_name": "Motunga",
+  "who_icd_11_classification": "13, 17",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Root ",
+  "diseases_treated": "Aphrodisiac and anthelmintics (against worms)",
+  "preparation_administration": "Chew root",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811fd"
+  },
+  "family": "Annonaceae",
+  "sn": "Greenwayodendron suaveolens",
+  "author": "(Engl.and Diels) Verde",
+  "local_name": "Motunga",
+  "who_icd_11_classification": "4A, 13, 15",
+  "mode_of_application_standardized": "Powder",
+  "parts_used": "Leaves and Bark",
+  "diseases_treated": "Rheumatism pains, fevers, headache, stomach ache",
+  "preparation_administration": "Pulverized leaves or bark mixed with seeds of Aframomum melegueta and eaten",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811fe"
+  },
+  "family": "Annonaceae",
+  "sn": "Greenwayodendron suaveolens",
+  "author": "(Engl.and Diels) Verde",
+  "local_name": "Motunga",
+  "who_icd_11_classification": "8A",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Bark",
+  "diseases_treated": "Headache",
+  "preparation_administration": "Juice is used in nasal inhalation",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811ff"
+  },
+  "family": "Annonaceae",
+  "sn": "Monodora crispate",
+  "author": "Engl. and Diel",
+  "local_name": "African nutmeg",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Seeds",
+  "diseases_treated": "Indigestion",
+  "preparation_administration": "Seeds used as spices in soup and aid with indigestion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81200"
+  },
+  "family": "Annonaceae",
+  "sn": "Monodora myristica ",
+  "author": "(Gaertn.) Dunal",
+  "local_name": "Opepe",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Bark",
+  "diseases_treated": "Hemorrhoids, stomach ache, and febrile pain",
+  "preparation_administration": "Infusion is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81201"
+  },
+  "family": "Annonaceae",
+  "sn": "Pachypodanthium staudtii",
+  "author": "Engl. and Diels",
+  "local_name": "Ntom",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Bark",
+  "diseases_treated": "Cough",
+  "preparation_administration": "Infusion is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81202"
+  },
+  "family": "Annonaceae",
+  "sn": "Pachypodanthium staudtii",
+  "author": "Engl. and Diels",
+  "local_name": "Ntom",
+  "who_icd_11_classification": "22",
+  "mode_of_application_standardized": "Powder",
+  "parts_used": "Bark",
+  "diseases_treated": "Arrow poison",
+  "preparation_administration": "Pulverized bark is added to poison mixture",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f7"
+  },
+  "family": "Annonaceae",
+  "sn": "Annona senegalensis",
+  "author": "Persoon",
+  "local_name": "Wild soursop ",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Fruits",
+  "diseases_treated": "Diarrhoea and dysentery",
+  "preparation_administration": "Infusion is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81204"
+  },
+  "family": "Annonaceae",
+  "sn": "Xylopia acutiflora",
+  "author": "(Dunal.) A. Rich",
+  "local_name": "Ki (Bamileke)",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Bark",
+  "diseases_treated": "Pneumonia and febrile pains",
+  "preparation_administration": "Infusion of the bark is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81205"
+  },
+  "family": "Annonaceae",
+  "sn": "Xylopia aethiopica",
+  "author": "A. Rich.",
+  "local_name": "Nkimba",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Decoction",
+  "parts_used": "Fruit",
+  "diseases_treated": "Sore throat",
+  "preparation_administration": "Decoction is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81206"
+  },
+  "family": "Annonaceae",
+  "sn": "Xylopia Africana",
+  "author": "(Benth.) Oliv.",
+  "local_name": "Guinea pepper",
+  "who_icd_11_classification": "12, 13",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Fruit / Bark",
+  "diseases_treated": "Bronchitis, dysentery and febrile pain",
+  "preparation_administration": "Infusion of fruits or bark is taken orally.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81207"
+  },
+  "family": "Annonaceae",
+  "sn": "Xylopia Africana",
+  "author": "(Benth.) Oliv.",
+  "local_name": "Guinea pepper",
+  "who_icd_11_classification": "12, 13, 15",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Bark",
+  "diseases_treated": "Asthma, stomach ache and rheumatism",
+  "preparation_administration": "Maceration of pulverized bark in palm wine is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81208"
+  },
+  "family": "Apiaceae",
+  "sn": "Eryngium foetidum",
+  "author": "L.",
+  "local_name": "Tchuju-tchuku grass",
+  "who_icd_11_classification": "1A, 4A, 13  ",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Whole plant ",
+  "diseases_treated": "Fever, diarrhea and malaria",
+  "preparation_administration": "Infusion of the plant is consumed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81209"
+  },
+  "family": "Apocynaceae",
+  "sn": "Catharanthus roseus ",
+  "author": "(L.) G.Don",
+  "local_name": "Rose-periwinkle ",
+  "who_icd_11_classification": "1A, 5A",
+  "mode_of_application_standardized": "Maceration ",
+  "parts_used": "Leaves ",
+  "diseases_treated": "Diabetes and malaria",
+  "preparation_administration": "Leaf extracts are consumed orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8120a"
+  },
+  "family": "Apocynaceae",
+  "sn": "Mondia whitei",
+  "author": "(Hook.f.) Skeels",
+  "local_name": "Racine",
+  "who_icd_11_classification": "17",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Roots",
+  "diseases_treated": "Aphrodisiac",
+  "preparation_administration": "Roots are chewed preferably with palm wine",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8120b"
+  },
+  "family": "Arecaceae",
+  "sn": "Elaeis guineensis",
+  "author": "Jacq.",
+  "local_name": "Palm tree",
+  "who_icd_11_classification": "14",
+  "mode_of_application_standardized": "Oil",
+  "parts_used": "Nuts",
+  "diseases_treated": "Skin care",
+  "preparation_administration": "Oil from crushed nuts (“mayanga”) is used to treat a wide range of skin conditions and as a base for other medicinal preparations",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8120c"
+  },
+  "family": "Arecaceae",
+  "sn": "Raphia regalis",
+  "author": "Becc.",
+  "local_name": "Rafia",
+  "who_icd_11_classification": "8A ",
+  "mode_of_application_standardized": "Juice",
+  "parts_used": "Sap",
+  "diseases_treated": "Stimulant",
+  "preparation_administration": "Sap is consumed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8120d"
+  },
+  "family": "Asphodelaceae",
+  "sn": "Aloe vera",
+  "author": "(L.) Burm.f.",
+  "local_name": "Aloe vera",
+  "who_icd_11_classification": "13, 22",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves",
+  "diseases_treated": "Sores, diarrhea, burns,",
+  "preparation_administration": "Leaves are eaten raw",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8120e"
+  },
+  "family": "Asteraceae",
+  "sn": "Ageratum conyzoides",
+  "author": "L.",
+  "local_name": "King grass",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food ",
+  "parts_used": "Leaves, flowers, stem",
+  "diseases_treated": "Dysentery and diarrhea",
+  "preparation_administration": "Leaves are eaten ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8120f"
+  },
+  "family": "Asteraceae",
+  "sn": "Acmella uliginosa",
+  "author": "(Sw.) Cass.",
+  "local_name": "Fowl e eye",
+  "who_icd_11_classification": "15",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Flowers",
+  "diseases_treated": "Toothache",
+  "preparation_administration": "Flowers are eaten",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81210"
+  },
+  "family": "Asteraceae",
+  "sn": "Echinops giganteus",
+  "author": "A. Rich.",
+  "local_name": "Tchemgang (Bamileke)",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Roots ",
+  "diseases_treated": "Gastrointestinal problems",
+  "preparation_administration": "Dried roots are eaten",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81211"
+  },
+  "family": "Asteraceae",
+  "sn": "Cichrium intybus ",
+  "author": "L.",
+  "local_name": "Common Chicory",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves",
+  "diseases_treated": "Indigestion",
+  "preparation_administration": "Leaves are eaten raw or cooked. Leaves used as dietary supplement",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81212"
+  },
+  "family": "Asteraceae",
+  "sn": "Cichrium intybus ",
+  "author": "L.",
+  "local_name": "Common Chicory",
+  "who_icd_11_classification": "8A",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Roots",
+  "diseases_treated": "Stimulant",
+  "preparation_administration": "Roots are dried and brewed as a caffein-free coffee alternative",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81213"
+  },
+  "family": "Asteraceae",
+  "sn": "Helichrysum odoratissumum",
+  "author": "(L.) Sweet",
+  "local_name": "Yellow leaf",
+  "who_icd_11_classification": "TM1",
+  "mode_of_application_standardized": "Food (in natura)",
+  "parts_used": "Flowers",
+  "diseases_treated": "Divination",
+  "preparation_administration": "Leaves are used in divination practice to summon the death",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81214"
+  },
+  "family": "Asteraceae",
+  "sn": "Synedrella nodiflora",
+  "author": "(L.) Gaertn.",
+  "local_name": "Yellow flower grass",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves and flowers",
+  "diseases_treated": "Indigestion",
+  "preparation_administration": "Leaves are eaten raw",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81215"
+  },
+  "family": "Asteraceae",
+  "sn": "Tithonia diversifolia",
+  "author": "(Hemst.) A.Gray",
+  "local_name": "Sunflower",
+  "who_icd_11_classification": "1A, 13",
+  "mode_of_application_standardized": "Infusion ",
+  "parts_used": "Leaves",
+  "diseases_treated": "Malaria and dysentery",
+  "preparation_administration": "Leaf infusion is consumed orally 3 times a day",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81216"
+  },
+  "family": "Asteraceae",
+  "sn": "Vernonia amygdalina",
+  "author": "Delile",
+  "local_name": "Bitter leaf",
+  "who_icd_11_classification": "5A, 13",
+  "mode_of_application_standardized": "Food ",
+  "parts_used": "Leaves",
+  "diseases_treated": "Gastritis, diabetes and anti-inflammatory",
+  "preparation_administration": "Leaves are eaten to aid with symptoms",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81217"
+  },
+  "family": "Burseraceae",
+  "sn": "Dacryodes edulis",
+  "author": "(G. Don) H. J. Lam.",
+  "local_name": "Plum ",
+  "who_icd_11_classification": "13, 22",
+  "mode_of_application_standardized": "Paste",
+  "parts_used": "Fruits ",
+  "diseases_treated": "Sores and dysentery",
+  "preparation_administration": "Fruit extract is put on open sores. Fruit is eaten to manage dysentery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81218"
+  },
+  "family": "Cactaceae",
+  "sn": "Epiphyllum oxypetalum",
+  "author": "(DC.) Haworth",
+  "local_name": "Queen of the night",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Leaves and flowers",
+  "diseases_treated": "Nasal congestion",
+  "preparation_administration": "Leaves are squeezed and the essence is inhaled. Crushed leaves may be placed inside the nose",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81219"
+  },
+  "family": "Cannabaceae",
+  "sn": "Cannabis sativa",
+  "author": "L.",
+  "local_name": "Weed ",
+  "who_icd_11_classification": "6B, 8A",
+  "mode_of_application_standardized": "Powder",
+  "parts_used": "Leaves and Flowers",
+  "diseases_treated": "Loss of appetite, stimulant and sleep aid",
+  "preparation_administration": "Cooked in oil or smoked as a cigarette",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8121a"
+  },
+  "family": "Caricaceae",
+  "sn": "Carica papaya",
+  "author": "L.",
+  "local_name": "Pawpaw leaf",
+  "who_icd_11_classification": "1A, 13",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Leaves",
+  "diseases_treated": "Malaria and typhoid",
+  "preparation_administration": "Leaf infusion is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8121b"
+  },
+  "family": "Caryophyllaceae",
+  "sn": "Drymaria cordata",
+  "author": "(L) Willd. ex Schult",
+  "local_name": "Dry maria",
+  "who_icd_11_classification": "9A",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Leaves",
+  "diseases_treated": "Conjunctivitis",
+  "preparation_administration": "Leaves are crushed and juice pressed into the eyes to cure conjunctivitis",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8121c"
+  },
+  "family": "Clusiaceae",
+  "sn": "Garcinia cola ",
+  "author": "Heckel",
+  "local_name": "Bitter cola",
+  "who_icd_11_classification": "8A ",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Seeds",
+  "diseases_treated": "Stimulant and stomach upset",
+  "preparation_administration": "Seeds are eaten",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8121d"
+  },
+  "family": "Costaceae",
+  "sn": "Costus afer",
+  "author": "Ker Gawl.",
+  "local_name": "Monkey sugarcane",
+  "who_icd_11_classification": "1A, 9A, 12, 13",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Stem",
+  "diseases_treated": "Stomach pain, throat pain, visual troubles and malaria",
+  "preparation_administration": "The stem is crushed and the juice extracted and consumed orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8121e"
+  },
+  "family": "Cucurbitaceae",
+  "sn": "Telfairia occidentalis",
+  "author": "Hook.f.",
+  "local_name": "Okohobong",
+  "who_icd_11_classification": "5A, 13",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Leaves",
+  "diseases_treated": "Anti-diabetic and purgative",
+  "preparation_administration": "Leaf extract is consumed orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8121f"
+  },
+  "family": "Euphorbiaceae",
+  "sn": "Croton penduliflorus",
+  "author": "Hutch.",
+  "local_name": "Miracle Seed",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Seeds",
+  "diseases_treated": "Laxative",
+  "preparation_administration": "Seeds are eaten with groundnut to induce stooling",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81220"
+  },
+  "family": "Euphorbiaceae",
+  "sn": "Euphorbia hirta ",
+  "author": "L.",
+  "local_name": "Milk leaf",
+  "who_icd_11_classification": "22",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves and flower",
+  "diseases_treated": "Poison",
+  "preparation_administration": "Leaves are eaten to treat suspected cases of poisoning",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81221"
+  },
+  "family": "Euphorbiaceae",
+  "sn": "Manihot esculenta",
+  "author": "Crantz",
+  "local_name": "Cassava leaf",
+  "who_icd_11_classification": "3A",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Leaves",
+  "diseases_treated": "Anemia",
+  "preparation_administration": "Leaf extract is consumed to augment blood production",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81222"
+  },
+  "family": "Euphorbiaceae",
+  "sn": "Ricinodendron heudelotii ",
+  "author": "(Baill.) Heckel",
+  "local_name": "Njangsang",
+  "who_icd_11_classification": "1A, 12, 13, 22 ",
+  "mode_of_application_standardized": "Decoction ",
+  "parts_used": "Bark ",
+  "diseases_treated": "Poison, cough, malaria, yellow fever, stomach pain",
+  "preparation_administration": "Bark infusion is consumed orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81223"
+  },
+  "family": "Euphorbiaceae",
+  "sn": "Ricinus communis",
+  "author": "L.",
+  "local_name": "Castor seed",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Seeds",
+  "diseases_treated": "Laxative",
+  "preparation_administration": "Seed is eaten to induce stooling",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81224"
+  },
+  "family": "Fabaceae",
+  "sn": "Mimosa pudica",
+  "author": "L.",
+  "local_name": "Mammi cover’am",
+  "who_icd_11_classification": "11",
+  "mode_of_application_standardized": "Paste",
+  "parts_used": "Leaves ",
+  "diseases_treated": "Blood clot",
+  "preparation_administration": "Crushed leaves are placed on fresh wound to aid with clotting",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81225"
+  },
+  "family": "Fabaceae",
+  "sn": "Pentaclethra macrophylla",
+  "author": "Benth.",
+  "local_name": "Oil beans ",
+  "who_icd_11_classification": "8A, 16",
+  "mode_of_application_standardized": "Maceration ",
+  "parts_used": "Leaves",
+  "diseases_treated": "Gonorrhea and convulsions",
+  "preparation_administration": "Leaf extract is consumed orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81226"
+  },
+  "family": "Fabaceae",
+  "sn": "Senna alata ",
+  "author": "(L.) Roxb.",
+  "local_name": "Eczema leaf",
+  "who_icd_11_classification": "11, 14",
+  "mode_of_application_standardized": "Paste",
+  "parts_used": "Leaves",
+  "diseases_treated": "Eczema and filariasis",
+  "preparation_administration": "Crushed leaves are placed on affected body parts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81227"
+  },
+  "family": "Gnetaceae",
+  "sn": "Gnetum africanum",
+  "author": "Welw.",
+  "local_name": "Eru leaves",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves",
+  "diseases_treated": "Constipation",
+  "preparation_administration": "Leaves are eaten or leaf extract is consumed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f8"
+  },
+  "family": "Annonaceae",
+  "sn": "Artabotrys congolensis",
+  "author": "De Wild. & T.Durand",
+  "local_name": "Bush plum (Lonkosso)",
+  "who_icd_11_classification": "17",
+  "mode_of_application_standardized": "Juice",
+  "parts_used": "Sap",
+  "diseases_treated": "Aphrodisiac",
+  "preparation_administration": "Drink sap",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81229"
+  },
+  "family": "Lamiaceae",
+  "sn": "Ocimum gratissimum",
+  "author": "L.",
+  "local_name": "Masepo",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Leaves",
+  "diseases_treated": "Nasal congestion",
+  "preparation_administration": "Leaf extract is inhaled ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8122a"
+  },
+  "family": "Malvaceae",
+  "sn": "Cola acuminata ",
+  "author": "(P.Beauv.) Schoot et Endl.",
+  "local_name": "Kola nut",
+  "who_icd_11_classification": "8A, 13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Seeds",
+  "diseases_treated": "Stimulant and digestive problems",
+  "preparation_administration": "Seeds are eaten",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8122b"
+  },
+  "family": "Malvaceae",
+  "sn": "Hibiscus rosa-sinensis ",
+  "author": "L.",
+  "local_name": "Hibiscus flower",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Wash",
+  "parts_used": "Leaves",
+  "diseases_treated": "Purgative",
+  "preparation_administration": "Leaves are crushed and their extract is used to clean the alimentary canal administered either through the rectum or drunk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8122c"
+  },
+  "family": "Meliaceae",
+  "sn": "Azadirachta indica ",
+  "author": "A.Juss.",
+  "local_name": "Dogoyaro",
+  "who_icd_11_classification": "5A",
+  "mode_of_application_standardized": "Decoction",
+  "parts_used": "Bark",
+  "diseases_treated": "Hyperglycemia",
+  "preparation_administration": "Small quantities of the bark infusion are consumed to reduce blood sugar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8122d"
+  },
+  "family": "Moringaceae",
+  "sn": "Moringa oleifera",
+  "author": "Lam.",
+  "local_name": "Moringa",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves and Bark",
+  "diseases_treated": "Stomach disorders and gastritis",
+  "preparation_administration": "Leaves are eaten in stews as a vegetable",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8122e"
+  },
+  "family": "Myrtaceae",
+  "sn": "Psidium guajava ",
+  "author": "L.",
+  "local_name": "Guava ",
+  "who_icd_11_classification": "5A, 11, 13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves",
+  "diseases_treated": "Diarrhea, inflammation, diabetes and hypertension",
+  "preparation_administration": "Leaves are either eaten raw or infused and drank",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8122f"
+  },
+  "family": "Pentadiplandraceae",
+  "sn": "Pentadiplandra brazzeana ",
+  "author": "Baill.",
+  "local_name": "Tcham (Bamileke)",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Powder",
+  "parts_used": "Roots",
+  "diseases_treated": "Cough",
+  "preparation_administration": "Ground root is mixed with pepper (Capsicum annum) and eaten preferably with palm wine",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81230"
+  },
+  "family": "Piperaceae",
+  "sn": "Piper guineense",
+  "author": "Schumach.",
+  "local_name": "Ndonkol (Bamileke)",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Maceration",
+  "parts_used": "Leaves",
+  "diseases_treated": "Gastrointestinal discomfort",
+  "preparation_administration": "Leaves are crushed and eaten to ease heartburn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81231"
+  },
+  "family": "Piperaceae",
+  "sn": "Piper umbellatum",
+  "author": "L.",
+  "local_name": "Tse (Bamileke)",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Seeds",
+  "diseases_treated": "Vermicide",
+  "preparation_administration": "Decoction made from the leaf is used to kill stomach worms",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81232"
+  },
+  "family": "Poaceae",
+  "sn": "Cenchrus purpureus ",
+  "author": "(Schumach.) Morrone",
+  "local_name": "Elephant grass",
+  "who_icd_11_classification": "15",
+  "mode_of_application_standardized": "Wash",
+  "parts_used": "Stem pith",
+  "diseases_treated": "Mouth problems",
+  "preparation_administration": "Leaf or stem pith infusion is used as a gargle and mouthwash to treat buccal affections and gingivitis",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81233"
+  },
+  "family": "Poaceae",
+  "sn": "Cymbopogon schoenanthus",
+  "author": "(L.) Spreng.",
+  "local_name": "Fever grass",
+  "who_icd_11_classification": "8A, 12",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Leaves ",
+  "diseases_treated": "Nasal congestion and stimulant",
+  "preparation_administration": "Leaf infusion in the form of a tea is consumed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81234"
+  },
+  "family": "Polygalaceae",
+  "sn": "Carpolobia lutea",
+  "author": "G.Don",
+  "local_name": "Aghba",
+  "who_icd_11_classification": "16",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Fruits, roots and bark",
+  "diseases_treated": "Aphrodisiac",
+  "preparation_administration": "Bark and roots are infused and drank several times",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81235"
+  },
+  "family": "Rosaceae",
+  "sn": "Prunus Africana",
+  "author": "(Hook. f.) Kalkm",
+  "local_name": "Prunus",
+  "who_icd_11_classification": "1A",
+  "mode_of_application_standardized": "Decoction",
+  "parts_used": "Bark",
+  "diseases_treated": "Malaria and various other ailments",
+  "preparation_administration": "Bark is infused and drank",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81236"
+  },
+  "family": "Rutaceae",
+  "sn": "Zanthoxylum leprieurii",
+  "author": "Guill. Et Perr.",
+  "local_name": "Bongo",
+  "who_icd_11_classification": "15",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Bark and roots",
+  "diseases_treated": "Rheumatism",
+  "preparation_administration": "Infusion is consumed orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f1"
+  },
+  "family": "Amaranthaceae",
+  "sn": "Beta vulgaris",
+  "author": "L.",
+  "local_name": "Beetroot ",
+  "who_icd_11_classification": "3A",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Tuber (roots)",
+  "diseases_treated": "Anemia",
+  "preparation_administration": "Tonic is made from the crushed tuber and drank",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81237"
+  },
+  "family": "Rutaceae",
+  "sn": "Zanthoxylum xanthoxyloïdes",
+  "author": "(Lam) P.G Waterman",
+  "local_name": "Nna shu (Bamiléké)",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Decoction",
+  "parts_used": "Roots ",
+  "diseases_treated": "Intestine inflammation (stomach pain)",
+  "preparation_administration": "Root decoction is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81238"
+  },
+  "family": "Sapotaceae",
+  "sn": "Baillonella toxisperma",
+  "author": "Pierre",
+  "local_name": "Moabi",
+  "who_icd_11_classification": "14",
+  "mode_of_application_standardized": "Oil",
+  "parts_used": "Seeds ",
+  "diseases_treated": "Cosmetic",
+  "preparation_administration": "Oil from the seed is used as a beautification product by women",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81239"
+  },
+  "family": "Solanaceae",
+  "sn": "Solanum melongena",
+  "author": "Lam",
+  "local_name": "Njakatu",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves",
+  "diseases_treated": "Stomach upset",
+  "preparation_administration": "3 leaves are eaten raw",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811ee"
+  },
+  "family": "Acanthaceae",
+  "sn": "Justicia cameunensis",
+  "author": "(Heine) B.J.Pollard",
+  "local_name": "Blood leaf",
+  "who_icd_11_classification": "3A",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Leaves",
+  "diseases_treated": "Anemia",
+  "preparation_administration": "Leaves are crushed and drank for increase blood production",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8123a"
+  },
+  "family": "Solanaceae",
+  "sn": "Solanum scabrum",
+  "author": "Mill.",
+  "local_name": "Huckleberry",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Leaves",
+  "diseases_treated": "Heartburn",
+  "preparation_administration": "Leaves are infused and consumed orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8123b"
+  },
+  "family": "Talinaceae",
+  "sn": "Talinum fruticosum",
+  "author": "(L.) Juss",
+  "local_name": "Water leaf",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Leaves",
+  "diseases_treated": "Purgative",
+  "preparation_administration": "Leaves are eaten as a laxative",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f0"
+  },
+  "family": "Alliaceae",
+  "sn": "Tulbaghia violacea",
+  "author": "Harv.",
+  "local_name": "Sweet garlic",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Stem (bulb)",
+  "diseases_treated": "Nasal congestion",
+  "preparation_administration": "Bulb is chewed to ease nasal congestion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8123c"
+  },
+  "family": "Zingiberaceae",
+  "sn": "Aframomum daniellii",
+  "author": "(Hook. F) K. Schum",
+  "local_name": "Besak (Bangwa)",
+  "who_icd_11_classification": "13",
+  "mode_of_application_standardized": "Food ",
+  "parts_used": "Fruits",
+  "diseases_treated": "Laxative",
+  "preparation_administration": "Fruits are eaten as a laxative",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811ef"
+  },
+  "family": "Alliaceae",
+  "sn": "Allium Sativum",
+  "author": "L.",
+  "local_name": "Garlic",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Decoction/Food",
+  "parts_used": "Stem (bulb)  ",
+  "diseases_treated": "Sore throat and tuberculosis",
+  "preparation_administration": "Cloves are eaten or a decoction of the plant is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f2"
+  },
+  "family": "Ancistrocladaceae",
+  "sn": "Ancistrocladus korupensis",
+  "author": "D. W. Thomas & Gereau",
+  "local_name": "Korupensis",
+  "who_icd_11_classification": "1A",
+  "mode_of_application_standardized": "Decoction",
+  "parts_used": "Bark",
+  "diseases_treated": "Malaria ",
+  "preparation_administration": "Bark decoction is consumed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f3"
+  },
+  "family": "Annonaceae",
+  "sn": "Annickia chlorantha ",
+  "author": "(Oliv.) Setten and P.T. Maas",
+  "local_name": "Moambe ",
+  "who_icd_11_classification": "14",
+  "mode_of_application_standardized": "Powder",
+  "parts_used": "Bark",
+  "diseases_treated": "Sores, ulcers",
+  "preparation_administration": "Powder is applied on the sore",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8123d"
+  },
+  "family": "Zingiberaceae",
+  "sn": "Aframomum melegueta",
+  "author": "K. Schum.",
+  "local_name": "Bush pepper",
+  "who_icd_11_classification": "TM1",
+  "mode_of_application_standardized": "Food (in natura)",
+  "parts_used": "Seeds",
+  "diseases_treated": "Seeds are used in divination",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f4"
+  },
+  "family": "Annonaceae",
+  "sn": "Annickia chlorantha",
+  "author": "(Oliv.) Setten and P.T. Maas",
+  "local_name": "Moambe ",
+  "who_icd_11_classification": "1A, 5A, 12, 13, 16",
+  "mode_of_application_standardized": "Powder",
+  "parts_used": "Bark",
+  "diseases_treated": "Fever, tuberculosis, vomiting, jaundice and urinary tract infection",
+  "preparation_administration": "Infusion is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f5"
+  },
+  "family": "Annonaceae",
+  "sn": "Annickia chlorantha",
+  "author": "(Oliv.) Setten and P.T. Maas",
+  "local_name": "Moambe ",
+  "who_icd_11_classification": "15",
+  "mode_of_application_standardized": "Powder",
+  "parts_used": "Bark",
+  "diseases_treated": "Rheumatism and fatigue",
+  "preparation_administration": "Decoction is used as hot bath",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea811f6"
+  },
+  "family": "Annonaceae",
+  "sn": "Annona senegalensis",
+  "author": "Persoon",
+  "local_name": "Wild soursop ",
+  "who_icd_11_classification": "1A, 13",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Bark",
+  "diseases_treated": "Fever and dysentery",
+  "preparation_administration": "Infusion is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8123e"
+  },
+  "family": "Amaryllidaceae",
+  "sn": "Allium cepa",
+  "author": "L.",
+  "local_name": "Onion",
+  "who_icd_11_classification": "15",
+  "mode_of_application_standardized": "Food",
+  "parts_used": "Bulb",
+  "diseases_treated": "Mouth ordor",
+  "preparation_administration": "Bulb is eaten fresh and whole",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea8123f"
+  },
+  "family": "Zingiberaceae",
+  "sn": "Zingiber officinale",
+  "author": "Roscoe",
+  "local_name": "Ginger",
+  "who_icd_11_classification": "12",
+  "mode_of_application_standardized": "Food and infusion",
+  "parts_used": "Rhizome",
+  "diseases_treated": "Common cold and nasal discomfort",
+  "preparation_administration": "Rhizomes are eaten or drank as an infusion to help clear the nasal passage",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81203"
+  },
+  "family": "Annonaceae",
+  "sn": "Uvariopsis korupensis",
+  "author": "Gereau and Kenfack",
+  "local_name": "Michile",
+  "who_icd_11_classification": "4A",
+  "mode_of_application_standardized": "Infusion",
+  "parts_used": "Bark",
+  "diseases_treated": "Fever",
+  "preparation_administration": "Infusion of the bark is taken orally",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6b6df2aa056834ea81228"
+  },
+  "family": "Irvingiaceae",
+  "sn": "Irvingia gabonensis ",
+  "author": "Baill.",
+  "local_name": "Bush mango",
+  "who_icd_11_classification": "11",
+  "mode_of_application_standardized": "Eaten ",
+  "parts_used": "Fruit and seeds",
+  "diseases_treated": "Weight management",
+  "preparation_administration": "Fruits and seeds are eaten for weight management",
+  "__v": 0
+}]

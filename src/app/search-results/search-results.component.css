@@ -1,0 +1,56 @@
+/* search.component.css */
+
+/* Define styles for the search box */
+input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Define styles for the search button */
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* search-results.component.css */
+  
+  /* Define styles for the search results container */
+  .search-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  /* Define styles for each search result item */
+  .search-results .item {
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  /* Define styles for the search result item title */
+  .search-results .item h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  /* Define styles for the search result item subtitle */
+  .search-results .item p {
+    font-size: 16px;
+    margin: 0;
+    color: #666;
+  }

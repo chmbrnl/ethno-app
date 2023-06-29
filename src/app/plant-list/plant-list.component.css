@@ -1,0 +1,7 @@
+body {
+    background-image: url('file:///C:/Users/chbrnl/Work/Ethno/ethno-app/src/assets/spice.png');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    filter: brightness(60%);
+  }
